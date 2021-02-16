@@ -14,7 +14,7 @@ numpy,
 pandas,
 matplotlib,
 seaborn,
-sklearn
+sklearn,
 scipy
 You can install these modules using the command pip.
 example: pip install numpy
