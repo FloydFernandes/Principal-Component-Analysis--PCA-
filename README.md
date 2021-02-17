@@ -1,5 +1,5 @@
 # Principal Component Analysis-(PCA)
- PCA is a dimensionality reduction technique used in thiss project to compress the data
+ PCA is a dimensionality reduction technique used in this project to compress the data
 
 ## Project
 This is a project on Wine dataset. This dataset has the information of differenttypes of wine and the content of it. There are 3 types of wine in total.
