@@ -2,7 +2,7 @@
  PCA is a dimensionality reduction technique used in this project to compress the data
 
 ## Project
-This is a project on Wine dataset. This dataset has the information of differenttypes of wine and the content of it. There are 3 types of wine in total.
+This is a project on Wine dataset. This dataset has the information of different types of wine and the content of it. There are 3 types of wine in total.
 
 We have used PCA to reduce the number of features. We use the 3 Principal components as the compressed data. 
 
